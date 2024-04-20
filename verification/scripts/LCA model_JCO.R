@@ -122,8 +122,3 @@ for (n in 2:n_end) {
                    alt_classes = res_lca$n.class[n])[4]
   res_lca$p_lrt[n] <- plrt
 }
-load("./lca/lca_m3_JCO.RData")
-test <- as.data.frame(mi[["predclass"]])
-colnames(test) <- "vclass"
-dat_base<- cbind(dat_clean,test)
-dat_base$vclass <- as.factor(dat_base$vclass)
