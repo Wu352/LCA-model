@@ -1,0 +1,26 @@
+name_org,name_set
+Age recode with single ages and 90+,age_org
+B Symptoms Recode (2010+),B_sym
+Behavior code ICD-O-3,behavior
+"Chemotherapy recode (yes, no/unk)",chemotherapy
+COD to site recode,cod.site
+Diagnostic Confirmation,diag.confirm
+Grade Recode (thru 2017),grade.2017
+Histologic Type ICD-O-3,histology
+Lymphoid neoplasm recode 2021 Revision,kind
+Lymphoma - Ann Arbor Stage (1983-2015),stage
+Marital status at diagnosis,marital
+Median household income inflation adj to 2021,income
+Patient ID,patient.id
+"Race and origin recode (NHW, NHB, NHAIAN, NHAPI, Hispanic)",race
+Radiation recode,radiation
+Reason no cancer-directed surgery,reason_nosurg
+Rural-Urban Continuum Code,rural
+RX Summ--Surg Prim Site (1998+),surg_prim
+RX Summ--Surg/Rad Seq,surg_rad
+Sequence number,seq.num
+Sex,sex
+Site recode ICD-O-3/WHO 2008,site
+Survival months,surv.month
+Vital status recode (study cutoff used),vital
+Year of diagnosis,year.diag
